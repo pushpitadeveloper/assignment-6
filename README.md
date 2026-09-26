@@ -1,6 +1,6 @@
 # FitLog — Workout Library
 
-A dark, no-nonsense workout library built with Next.js and TypeScript. Browse 12 curated lifts, view detailed instructions, and build your daily plan — all with smooth UX and toast notifications.
+A dark, no-nonsense workout library built with Next.js and TypeScript. Browse 12 curated lifts, view detailed instructions, and build your daily plan — all with smooth UX and toast notifications.Fit-Log - Fitness Workout Tracker.
 
 ## 🔗 Live Site
 
