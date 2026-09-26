@@ -8,7 +8,7 @@ export default function NotFound() {
         404
       </p>
       <h1 className="font-oswald text-5xl md:text-7xl font-bold uppercase text-white">
-        Page not found
+       Page not found. Let's get you back to your workouts.
       </h1>
       <p className="text-gray-400 mt-4 max-w-md">
         The page you're looking for doesn't exist or has been moved.
