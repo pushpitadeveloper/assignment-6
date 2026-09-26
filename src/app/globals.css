@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 .font-oswald {
-  font-family: var(--font-oswald), sans-family;
+  font-family: var(--font-oswald), sans-serif;
 }
 
 body {
