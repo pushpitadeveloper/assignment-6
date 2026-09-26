@@ -15,7 +15,13 @@ https://fit-log-rose.vercel.app/
 - **Lucide React** — Icons
 - **Context API** — Global state management
 - **localStorage** — Data persistence
+## Features
 
+- Browse workout exercises
+- Search workouts
+- View workout details
+- Create a personal workout plan
+- Responsive fitness-focused interface
 ## ✨ Key Features
 
 1. **Workout Library** — Browse 12 workouts in a responsive grid with images, muscle group tags, equipment info, and stats (duration, calories, rating).
